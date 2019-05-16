@@ -66,7 +66,7 @@ class Comment extends Component{
                 className='comment-delete'>
                     删除
                 </span>
-            </div> 
+            </div>
         )
     }
 }
