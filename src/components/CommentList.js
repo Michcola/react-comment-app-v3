@@ -26,7 +26,7 @@ class CommentList extends Component{
                 index={i}
                  comment={comment}
                  />)}
-            </div>
+            </div> 
         )
     }
 }
