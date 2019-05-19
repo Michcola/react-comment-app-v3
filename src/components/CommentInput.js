@@ -82,7 +82,7 @@ export default class CommentInput extends Component {
                         发布
                     </button>
                 </div>
-            </div> 
+            </div>
         )
     }
 }
